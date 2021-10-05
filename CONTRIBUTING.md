@@ -16,4 +16,4 @@ Make README.md for a description of the Indonesian food you choose and don't for
 Format README.md like in folder sample there are pictures and descriptions.
 
 ## 3. Image Dataset
-Make folder **datasets** with the format name [name indonesian_food]_1,[name indonesian_food]_2,[name indonesian_food]_3,etc and a min **8** images
+Make folder **datasets** with the format name [name indonesian_food]_1,[name indonesian_food]_2,[name indonesian_food]_3,etc and a min **4** images
